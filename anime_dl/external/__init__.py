@@ -1,4 +1,4 @@
-import external.aes
-import external.compat
-import external.socks
-import external.utils
+from . import aes
+from . import compat
+from . import socks
+from . import utils
